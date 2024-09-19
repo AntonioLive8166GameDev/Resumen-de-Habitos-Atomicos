@@ -468,3 +468,8 @@ Cuando haga cambios importantes en el resumen, lo haré saber a través de X e I
 - instagram.com/antoniolivekun
 
 Recomiendo también suscribirse al boletín semanal gratuito de James Clear, puedes hacerlo en atomichabits.com/newsletter 
+
+
+
+# Referencias
+- Clear, James. (julio, 2022). *Hábitos Atómicos*. Editorial PAIDÓS.
