@@ -1,3 +1,4 @@
+# El sistema Pointing-and-Calling
 Se trata de un método de origen japonés dirigido a evitar errores mediante un procedimiento de comprobaciones y verificaciones que emplean varios sentidos (vista, oído, tacto) y permiten al trabajador transformar una tarea más o menos automática en algo completamente consciente y ejecutado de forma mucho más segura y libre de errores.
 
 1. Mirar algo.
