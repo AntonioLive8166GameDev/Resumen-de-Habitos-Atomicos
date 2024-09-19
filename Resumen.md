@@ -28,7 +28,7 @@ Ignoramos los pequeños cambios porque no traen un cambio significativo de inmed
 >Los grandes hitos con  frecuencia son el resultado de muchos acontecimientos previos que acumulan el potencial requerido para desencadenar un gran cambio.
 
 La *meseta de potencial latente* (como la denomina James Clear), es el tiempo en el que no se producen esos cambios notables; ergo, es el lapso en el que es fácil dejar la formación de un hábito por la desilusión de no observar cambios.
-![[Meseta de potencial latente, James Clear. Hábitos Atómicos.png]]
+![Meseta de potencial latente, James Clear. Hábitos Atómicos.png](Recursos/Meseta de potencial latente, James Clear. Hábitos Atómicos.png) 
 
 #### Olvida las metas y mejor enfócate en los sistemas
 >Las **metas** son los resultados que quieres obtener, los **sistemas** son los procesos que sigues para alcanzar esos resultados. 
