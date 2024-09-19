@@ -219,7 +219,7 @@ Esto se debe a que queremos retardar el fracaso. La aportación de la Tercera Le
 #### Cuánto tiempo toma desarrollar un hábito
 La pregunta adecuada es: "¿Cuántas veces tengo que repetir un hábito para desarrollarlo?".
 La formación de un hábito implica el desarrollo cerebral para ser más eficiente en esa conducta, y la manera de conseguir ese desarrollo, es repitiendo la conducta el suficiente número de veces.
-![Línea de los hábitos](Recursos/Línea%20de%20los%20Hábitos,%20James%20Clear%20Hábitos%20Atómicos.png)
+![Línea de los hábitos](Recursos/Línea%20de%20los%20Hábitos,%20James%20Clear.%20Hábitos%20Atómicos.png)
 
 ### 12. La ley del menor esfuerzo
 Es parte de la naturaleza humana seguir la ley del menor esfuerzo.
@@ -396,8 +396,8 @@ Conforme el hábito se vuelve automático, te vuelves menos sensible a la retroa
 
 Al intentar obtener la maestría en un campo, dominar un hábito lo convierte en la base para generar el siguiente nivel.
 
-![Maestría en un hábito](Captura%20de%20pantalla%202024-09-18%20201734.png)
-![Maestría en un campo](Captura%20de%20pantalla%202024-09-18%20201757.png)
+![Maestría en un hábito](Recursos/Captura%20de%20pantalla%202024-09-18%20201734.png)
+![Maestría en un campo](Recursos/Captura%20de%20pantalla%202024-09-18%20201757.png)
 #### Cómo revisar tus hábitos y hacer ajustes
 No basta con crear hábitos, también hay que **refinarlos**.
 James Clear propone implementar un sistema de *reflexión y revisión* que nos permita analizar nuestras decisiones periódicamente para saber qué está funcionando, qué errores estamos cometiendo y, con base en lo anterior, saber que debemos corregir.
