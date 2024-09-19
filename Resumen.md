@@ -9,7 +9,7 @@ El resumen de Hábitos Atómicos que estás por leer fue elaborado con fines aca
 ## Introducción. Mi historia
 Fue golpeado por un bate en un partido de baseball. Quedó incapacitado y su rehabilitación tomó mucho tiempo. Fue publicando posts en su web durante mucho tiempo hasta terminar convirtiéndose en un especialista en hábitos. 
 
-Su método de cuatro pasos para desarrollar hábitos: Señal, anhelo, respuesta y recompensa; sumado a las cuatro ![Leyes del cambio de conducta](/Leyes del cambio de conducta/) que se desprenden de este método, es en lo que se basó el autor para construir su libro.
+Su método de cuatro pasos para desarrollar hábitos: Señal, anhelo, respuesta y recompensa; sumado a las cuatro [Leyes del cambio de conducta](Leyes-del-cambio-de-conducta.md) que se desprenden de este método, es en lo que se basó el autor para construir su libro.
 
 
 ## Principios fundamentales: Por qué los pequeños cambios generan una gran diferencia.
