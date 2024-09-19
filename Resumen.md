@@ -85,7 +85,7 @@ Si eliminas la **señal**, tu hábito nunca va a comenzar. Si reduces el **anhel
 | Primera Ley (SEÑAL)                    | Hacerlo obvio                              |
 | Segunda Ley (ANHELO)                   | Hacerlo atractivo                          |
 | Tercera Ley (RESPUESTA)                | Hacerlo sencillo                           |
-| Cuarta Ley (RECOMPENSA)              . | Hacerlo satisfactorio                    . |
+| Cuarta Ley (RECOMPENSA)               | Hacerlo satisfactorio                    |
 Estas leyes pueden invertirse para eliminar hábitos:
 
 | Cómo eliminar un mal hábito                  |                            |
@@ -93,7 +93,7 @@ Estas leyes pueden invertirse para eliminar hábitos:
 | Inversión de la Primera Ley (SEÑAL)          | Hacerlo invisible          |
 | Inversión de la Segunda Ley (ANHELO)         | Hacerlo poco atractivo     |
 | Inversión de la Tercera Ley (RESPUESTA)      | Hacerlo difícil            |
-| Inversión de la Cuarta Ley (RECOMPENSA)    . | Hacerlo insatisfactorio  . |
+| Inversión de la Cuarta Ley (RECOMPENSA)     | Hacerlo insatisfactorio  |
 
 
 ## Primera Ley: Hacerlo obvio
@@ -102,7 +102,7 @@ Estas leyes pueden invertirse para eliminar hábitos:
 Los hábitos son conductas que se repiten automáticamente y de manera inconsciente, incluso sin que nos demos cuenta; por lo tanto, para poder cambiar estas conductas, primero debemos *transformar en consciente lo inconsciente*.
 
 #### El Registro de los Hábitos
-El registro de hábitos es similar al sistema *[[El sistema Pointing-and-Calling|Pointing-and-Calling]]*.
+El registro de hábitos es similar al sistema *[Pointing-and-Calling](El%20sistema%20Pointing-and-Calling.md)*.
 1. Haz una lista de tus hábitos diarios.
 2. Analiza cada conducta y pregúntate si se trata de un buen hábito, un mal hábito o uno neutral.
 3. Si es un buen hábito, escribe junto un signo **+**; si es uno malo, escribe junto un signo **—**; si es un hábito neutral, escribe un signo **=**. Cada marca dependerá de tu situación y tus metas.
@@ -158,7 +158,7 @@ El autocontrol no sirve a largo plazo, es mejor gastar esa energía en optimizar
 #### El circuito de retroalimentación impulsado por la dopamina
 >La dopamina es liberada no solamente cuando experimentas placer, también cuando lo *anticipas*.
 
-![[EL PICO DE DOPAMINA, JAMES CLEAR. HÁBITOS ATÓMICOS.png]]
+![El pico de dopamina](Recursos/EL%20PICO%20DE%20DOPAMINA,%20JAMES%20CLEAR.%20HÁBITOS%20ATÓMICOS.png)
 
 >Cuando la dopamina se incrementa, lo mismo ocurre con la motivación para actuar.
 
@@ -219,7 +219,7 @@ Esto se debe a que queremos retardar el fracaso. La aportación de la Tercera Le
 #### Cuánto tiempo toma desarrollar un hábito
 La pregunta adecuada es: "¿Cuántas veces tengo que repetir un hábito para desarrollarlo?".
 La formación de un hábito implica el desarrollo cerebral para ser más eficiente en esa conducta, y la manera de conseguir ese desarrollo, es repitiendo la conducta el suficiente número de veces.
-![[Línea de los Hábitos, James Clear. Hábitos Atómicos.png]]
+![Línea de los hábitos](Recursos/Línea%20de%20los%20Hábitos,%20James%20Clear%20Hábitos%20Atómicos.png)
 
 ### 12. La ley del menor esfuerzo
 Es parte de la naturaleza humana seguir la ley del menor esfuerzo.
@@ -396,7 +396,8 @@ Conforme el hábito se vuelve automático, te vuelves menos sensible a la retroa
 
 Al intentar obtener la maestría en un campo, dominar un hábito lo convierte en la base para generar el siguiente nivel.
 
-![[Captura de pantalla 2024-09-18 201734.png]]![[Captura de pantalla 2024-09-18 201757.png]]
+![Maestría en un hábito](Captura%20de%20pantalla%202024-09-18%20201734.png)
+![Maestría en un campo](Captura%20de%20pantalla%202024-09-18%20201757.png)
 #### Cómo revisar tus hábitos y hacer ajustes
 No basta con crear hábitos, también hay que **refinarlos**.
 James Clear propone implementar un sistema de *reflexión y revisión* que nos permita analizar nuestras decisiones periódicamente para saber qué está funcionando, qué errores estamos cometiendo y, con base en lo anterior, saber que debemos corregir.
@@ -418,8 +419,7 @@ Puedes ver sus reportes anuales en jamesclear.com/annual-review.
 #### Cómo romper con las creencias que te frenan
 >Entre más nos aferramos a una identidad, más difícil se vuelve crecer más allá de ella.
 
->[!Nota]
->"Mantén pequeña tu identidad" - Paul Graham.
+>[!Nota] "Mantén pequeña tu identidad" - Paul Graham.
 
 No permitas que una sola creencia te defina. Este es uno de los más graves inconvenientes de la creación de hábitos. Si cometes este error, serás frágil. Aferrarte a una sola idea hará que sea más difícil crecer más allá de ella. Debes asegurarte de que tu identidad sea flexible, de lo contrario, si algo te obliga a cambiarla, tendrás una crisis de identidad.
 
