@@ -1,7 +1,6 @@
 #Resumen #JamesClear #Libro #Hábitos #DesarrolloPersonal
 # Importante
 El resumen de Hábitos Atómicos que estás por leer fue elaborado con fines académicos y personales. El contenido del libro se presenta extremadamente sintetizado subtema por subtema en este escrito; aunque sirva para conocer los puntos clave de la lectura, recomiendo extremadamente leer el libro completo antes de leer este resumen y este último usarlo sólo a manera de repaso, debido a que muchas ideas importantes se han dejado fuera y el autor (James Clear) explica mucho más a fondo aportando incluso análisis de casos para facilitar la comprensión de sus aportaciones.
-[[2024-09-14|¿Por qué hice esto?]]
 
 
 # Contenido
