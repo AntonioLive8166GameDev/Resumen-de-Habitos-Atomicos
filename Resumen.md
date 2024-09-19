@@ -462,6 +462,7 @@ atomichabits.com/parenting
 He realizado este resumen en tres días; debido a las prisas, es posible que haya errores o que no haya expresado algunas ideas como el autor lo tenía planeado. Nuevamente recomiendo leer el libro y usar este resumen únicamente como **repaso**.
 
 Publicaré este recurso en un repositorio de GitHub. Con el paso del tiempo haré revisiones y ediciones que podrás consultar ahí. También me daré la tarea de resumir el contenido de los capítulos adicionales sobre los negocios y la paternidad, donde hasta este momento sólo coloqué los enlaces para que los consultes.
+Puedes acceder al repositorio en https://github.com/AntonioLive8166GameDev/Resumen-de-Habitos-Atomicos.
 
 Cuando haga cambios importantes en el resumen, lo haré saber a través de X e Instagram. Si quieres estar al tanto, puedes seguirme.
 - x.com/antoniolive8166
